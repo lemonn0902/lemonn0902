@@ -1,5 +1,6 @@
-# 💫 About Me:
-## hi there! I'm Shreya :)<br>- 🎓 2nd year student at RV College of Engineering  <br>- ⚙️ Interested in learning more about web dev, backend systems, AI and ML  <br>- 🤖 Occasionally yells at the computer and calls it *debugging*  <br>- 💬 Pronouns: she/her
+## 💫 About Me:
+## hi there! I'm Shreya :)<br>
+- 🎓 2nd year student at RV College of Engineering  <br>- ⚙️ Interested in learning more about web dev, backend systems, AI and ML  <br>- 🤖 Occasionally yells at the computer and calls it *debugging*  <br>- 💬 Pronouns: she/her
 
 
 ## 🌐 Socials:
